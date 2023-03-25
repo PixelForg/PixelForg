@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PixelFog, currently a junior Web developer.
+- 👋 Hi, I’m @PixelForg, currently a junior Web developer.
 - 👀 I’m interested in Web development, Linux, cli apps.
 - 🌱 I’m currently learning MERN stack
 - Discord - PixelForg#6635
