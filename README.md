@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PixelForg, currently a junior Web developer.
+- 👋 Hi, I’m @PixelForg, currently a frontend web dev.
 - 👀 I’m interested in Web development, Linux, cli apps.
-- 🌱 I’m currently learning MERN stack
-- Discord - PixelForg#6635
+- 🌱 I’m currently learning Kotlin for some personal projects
+- Discord - pixelforg
 
 <!---
 PixelFog/PixelFog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
