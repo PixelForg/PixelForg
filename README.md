@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @PixelForg, currently a frontend web dev.
-- 👀 I’m interested in Web development, Linux, cli apps.
-- 🌱 I’m currently learning Kotlin for some personal projects
 - Discord - pixelforg
 
 <!---
